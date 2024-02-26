@@ -105,25 +105,24 @@
       "Technologies": ["JAVASCRIPT", "HTML", "CSS"]
     },
     {
-      "Title": "Tu super plan",
-      "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+      "Title": "Ciscom hospital",
+      "Description": "As a seasoned front-end web developer, I specialize in crafting static websites tailored to the unique needs of various industries. Recently, I spearheaded the creation of a comprehensive website for a hospital, leveraging my expertise in HTML and CSS to deliver a seamless user experience. My role involved meticulous attention to detail in structuring content with HTML while ensuring a visually appealing layout through CSS styling. By prioritizing responsive design principles, I guarantee accessibility across diverse browsers and devices. I excel in translating client requirements into tangible web solutions, demonstrating proficiency in project management and adherence to strict deadlines. My dedication to producing high-quality results is underscored by my commitment to staying abreast of emerging trends in web development.",
       "imgs": [
-        "assets/images/tusuperplan/tusuperplan1.png",
-        "assets/images/tusuperplan/tusuperplan2.png",
-        "assets/images/tusuperplan/tusuperplan3.png",
-        "assets/images/tusuperplan/tusuperplan4.png",
-        "assets/images/tusuperplan/tusuperplan5.png"
+        "assets/images/tusuperplan/1.png",
+        "assets/images/tusuperplan/2.png",
+        "assets/images/tusuperplan/3.png",
+        "assets/images/tusuperplan/4.png"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+      "Technologies": ["HTML", "CSS"]
     },
     
     {
       "Title": "Hands game",
-      "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-      "imgs": ["assets/images/hands-game.png"],
+      "Description": "Developed a basic calculator application using HTML, CSS, and JavaScript, encapsulated within a single HTML file. The calculator enables users to perform essential arithmetic operations including addition, subtraction, multiplication, and division. Implemented a user-friendly interface featuring a display area for input and results, with intuitive buttons for numerical input, operator selection, and result calculation. This project demonstrates proficiency in front-end web development, emphasizing simplicity, usability, and efficient code organization.      ",
+      "imgs": ["assets/images/cal-1.png"],
       "ghLink": "https://github.com/andresjosehr/hands-game",
       "demoLink": "https://projects.andresjosehr.com/hands-game",
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+      "Technologies": ["Angular", "TYPESCRIPT","CSS","BOOTSTRAP"]
     },
     {
       "Title": "Countries viewer",
@@ -138,11 +137,11 @@
   "OtherProjects.Title": "More projects",
   "OtherProjects.Projects": [
     {
-      "Title": "Pokemon",
-      "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+      "Title": "Portfolio Website",
+      "Description": "Built a dynamic portfolio site with Angular, JSON, Bootstrap, SCSS, and ES6. Ensured seamless responsiveness and elegant design for enhanced user experience. Leveraged modern web technologies to showcase projects and skills effectively",
       "ghLink": "https://github.com/andresjosehr/pokemon-angular",
       "demoLink": "https://projects.andresjosehr.com/pokemon-list",
-      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+      "Technologies": ["Angular", "RxJs", "SCSS", "Bootstrap","JSON","ES6"]
     },
     {
       "Title": "Coming soon page",
