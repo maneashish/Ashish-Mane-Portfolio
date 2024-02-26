@@ -12,16 +12,16 @@
                 <a ngbNavLink (click)='scroll("jobs")'><span class='nav-number'>02. </span> <span class="underline nav-text"> {{"Header.Item2" | translate}}</span></a>
                 <ng-template ngbNavContent>Second content</ng-template>
             </li>
+            <li ngbNavItem (click)='analyticsService.sendAnalyticEvent("click_education", "menu", "click")'>
+                <a ngbNavLink (click)='scroll("education")'><span class='nav-number'>05. </span> <span class="underline nav-text"> {{"Header.Item5" | translate}}</span></a>
+                <ng-template ngbNavContent>Second content</ng-template>
+            </li>
             <li ngbNavItem (click)='analyticsService.sendAnalyticEvent("click_jobs", "menu", "click")'>
                 <a ngbNavLink (click)='scroll("proyects")'><span class='nav-number'>03. </span> <span class="underline nav-text"> {{"Header.Item3" | translate}}</span></a>
                 <ng-template ngbNavContent>Second content</ng-template>
             </li>
             <li ngbNavItem (click)='analyticsService.sendAnalyticEvent("click_contact", "menu", "click")'>
                 <a ngbNavLink (click)='scroll("contact")'><span class='nav-number'>04. </span> <span class="underline nav-text"> {{"Header.Item4" | translate}}</span></a>
-                <ng-template ngbNavContent>Second content</ng-template>
-            </li>
-            <li ngbNavItem (click)='analyticsService.sendAnalyticEvent("click_education", "menu", "click")'>
-                <a ngbNavLink (click)='scroll("contact")'><span class='nav-number'>05. </span> <span class="underline nav-text"> {{"Header.Item5" | translate}}</span></a>
                 <ng-template ngbNavContent>Second content</ng-template>
             </li>
             <li ngbNavItem>
@@ -32,7 +32,7 @@
             <li>
                 <div ngbDropdown class="d-inline-block">
                     <div class="language-container" id="dropdownForm1" ngbDropdownToggle>
-                        <img *ngIf='languageFormControl.value == "en"' width="20px" src="https://www.worldometers.info/img/flags/us-flag.gif" alt="English">
+                        <img *ngIf='languageFormControl.value == "en"' width="20px"  alt="English">
                         <span *ngIf='languageFormControl.value == "en"' class="flag-text">English</span>
 
                         <img *ngIf='languageFormControl.value == "es"' width="20px" src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="Español">
