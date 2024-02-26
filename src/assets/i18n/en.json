@@ -1,0 +1,186 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular 4+</span> and sometimes in <span class='underline'>Laravel</span> applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
+
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "QUNDUCTOR",
+      "Title": "Triarq Helth llp Pune | FullStack developer",
+      "Date": "March 2023 - Present",
+      "Description": [
+        "Contributed to the development of Qunductor, a platform designed to streamline the Eligibility Verification process within the healthcare sector. Utilized Angular framework for frontend development, enabling seamless import of patient information, project creation, and task assignment for Revenue Cycle Management (RCM) employees. Orchestrated the verification of patient eligibility criteria in accordance with insurance parameters, ensuring accuracy in processing. Implemented key functionalities including document uploading, Excel export, and version updates, transitioning the platform from Angular 9 to 13 for enhanced efficiency."
+      ]
+    },
+    {
+      "Tab": "POLICY SERVER",
+      "Title": "IAriana Technology Pune | Fullstack developer  ",
+      "Date": "September 2023 - March 2023",
+      "Description": [
+        "I played a pivotal role in the design and execution of a policy server product centered around email restrictions and regulations. My contributions spanned various facets, including the development of interfaces for Customer Admin, Super Admin, and policy rule creation functionalities. Through meticulous integration of APIs and meticulous attention to detail, I ensured seamless communication between different system components. Additionally, I prioritized responsive design principles to guarantee optimal user experiences across devices. Over the course of the project, I spearheaded the implementation of 14 distinct policies, each tailored to specific rule creation requirements. By combining technical expertise with a commitment to meeting client needs, I played an integral role in delivering a robust and versatile policy server solution."
+      ]
+    },
+    {
+      "Tab": "GIVETH",
+      "Title": "IAriana Technology Pune | Fullstack developer  ",
+      "Date": "September 2023 - March 2023",
+      "Description": [
+        " I spearheaded the development of an Angular-based web application dedicated to a meal donation initiative aimed at supporting underprivileged children. Within this project, I orchestrated the implementation of comprehensive functionalities, including user registration, secure authentication protocols, and seamless payment processing systems. Additionally, I devised a unique GCC code generation and management system, ensuring transparency and accountability in donation tracking. To facilitate the distribution process, I created a complementary mobile application tailored for shopkeepers, enabling them to scan GCC codes efficiently. Furthermore, I integrated tracking, reporting, and analytics features to provide stakeholders with valuable insights for assessing project impact. With meticulous attention to detail, I successfully deployed the project and meticulously managed documentation to ensure smooth operation and future scalability."
+      ]
+    },
+    {
+      "Tab": " Blood Banks",
+      "Title": "Aavid Software | Intenship",
+      "Date": "February 2016 - May 2017",
+      "Description": [
+        "Conducted comprehensive literature reviews to explore the role of information systems in blood bank management. Analyzed findings to identify the benefits of web-based blood bank systems, including enhanced convenience, efficiency, and security compared to traditional manual systems. Recognized the limitations of manual processes, which often resulted in user dissatisfaction. Emphasized the pivotal role of online blood bank applications in simplifying tasks and ensuring rapid data retrieval when required."
+      ]
+    },
+    {
+      "Tab": "CANTV",
+      "Title": "System analyst",
+      "Date": "November 2015 - December 2016",
+      "Description": [
+        "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
+        "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
+      ]
+    },
+    {
+      "Tab": "IEP",
+      "Title": "English teacher",
+      "Date": "January 2015 - July 2015",
+      "Description": [
+        "Teaching English at a basic level to an enrollment of more than 200 students."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Project",
+  "FeatureProjects.Projects": [
+    {
+        "Title": "Blood Donation Management System",
+        "Description": "Conducted comprehensive literature reviews to explore the role of information systems in blood bank management. Analyzed findings to identify the benefits of web-based blood bank systems, including enhanced convenience, efficiency, and security compared to traditional manual systems. Recognized the limitations of manual processes, which often resulted in user dissatisfaction. Emphasized the pivotal role of online blood bank applications in simplifying tasks and ensuring rapid data retrieval when required. Skills utilized: Angular, Node.js, CSS, Bootstrap, jQuery, MongoDB.",
+        "imgs": [
+          "assets/images/proyex/1.png",
+          "assets/images/proyex/2.png",
+          "assets/images/proyex/3.png",
+          "assets/images/proyex/4.png",
+          "assets/images/proyex/5.png",
+          "assets/images/proyex/6.png"
+        ],
+        "Technologies": [
+          "Angular",
+          "Node.js",
+          "CSS",
+          "Bootstrap",
+          "jQuery",
+          "MongoDB"
+        ]
+      },
+    {
+      "Title": "Cryptocurrency",
+      "Description": "I specialize in creating dynamic <span class='underline'>cryptocurrency dashboards and secure authentication systems</span> using<span class='underline'> HTML, CSS, and JavaScript</span>, leveraging local storage for user authentication. Explore my projects showcasing innovative frontend design and robust functionality. Let's collaborate to bring your ideas to life in the digital realm!",
+
+      "imgs": [
+        "assets/images/agrourbana/1.png",
+        "assets/images/agrourbana/2.png",
+        "assets/images/agrourbana/3.png"
+      ],
+      "Technologies": ["JAVASCRIPT", "HTML", "CSS"]
+    },
+    {
+      "Title": "Tu super plan",
+      "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+      "imgs": [
+        "assets/images/tusuperplan/tusuperplan1.png",
+        "assets/images/tusuperplan/tusuperplan2.png",
+        "assets/images/tusuperplan/tusuperplan3.png",
+        "assets/images/tusuperplan/tusuperplan4.png",
+        "assets/images/tusuperplan/tusuperplan5.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    
+    {
+      "Title": "Hands game",
+      "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
+      "imgs": ["assets/images/hands-game.png"],
+      "ghLink": "https://github.com/andresjosehr/hands-game",
+      "demoLink": "https://projects.andresjosehr.com/hands-game",
+      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+    },
+    {
+      "Title": "Countries viewer",
+      "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
+      "imgs": ["assets/images/countries-viewer.png"],
+      "ghLink": "https://github.com/andresjosehr/countries-viewer",
+      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+    }
+  ],
+
+  "OtherProjects.Title": "More projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Pokemon",
+      "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+      "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+      "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+    },
+    {
+      "Title": "Coming soon page",
+      "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+      "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+      "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+      "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+    },
+    {
+      "Title": "Four card feature section",
+      "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": ["Angular", "SASS", "CSS GRID"]
+    },
+    {
+      "Title": "Social proof section",
+      "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "Technologies": ["Angular", "CSS GRID", "GIT"]
+    },
+    {
+      "Title": "FAQ accordion card",
+      "Description": "FAQ accordion with logic and animations made in Angular.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+    },
+    {
+      "Title": "Profile card",
+      "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+      "Technologies": ["Angular", "SASS", "GIT"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
