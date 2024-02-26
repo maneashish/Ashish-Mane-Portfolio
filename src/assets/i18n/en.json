@@ -1,6 +1,7 @@
 {
   "Header.Item1": "About me",
   "Header.Item2": "Experience",
+  "Header.Item5": "Education",
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",

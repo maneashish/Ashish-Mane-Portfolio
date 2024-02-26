@@ -20,6 +20,10 @@
                 <a ngbNavLink (click)='scroll("contact")'><span class='nav-number'>04. </span> <span class="underline nav-text"> {{"Header.Item4" | translate}}</span></a>
                 <ng-template ngbNavContent>Second content</ng-template>
             </li>
+            <li ngbNavItem (click)='analyticsService.sendAnalyticEvent("click_education", "menu", "click")'>
+                <a ngbNavLink (click)='scroll("contact")'><span class='nav-number'>05. </span> <span class="underline nav-text"> {{"Header.Item5" | translate}}</span></a>
+                <ng-template ngbNavContent>Second content</ng-template>
+            </li>
             <li ngbNavItem>
                 <a (click)="downloadCV()" class="main-btn cv-btn" ngbNavLink>
                   {{"Header.cvBtn" | translate}}
