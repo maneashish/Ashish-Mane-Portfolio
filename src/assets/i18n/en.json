@@ -7,12 +7,12 @@
   "Header.cvBtn": "Resume",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular 4+</span> and sometimes in <span class='underline'>Laravel</span> applying good practices and development standards.",
+  "Banner.Description": "Experienced Front-End Web Developer with over <span class='underline'> 1.5+ years</span> of hands-on experience in <span class='underline'> HTML, CSS, JavaScript</span>, and responsive design. Proficient in frameworks like <span class='underline'> Angular, Bootstrap, jQuery, and kendoUI </span> to develop visually appealing and user-friendly web applications. <span class='underline'> Skilled in Agile methodologies</span>, <span class='underline'> project management with Jira </span>, and collaborating within cross-functional teams. Eager to apply expertise in delivering innovative web solutions.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "In my <span class='underline'>2 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Node.Js and MongoDB</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
     "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
     "Some of the technologies that I have trained and worked on include (but are not limited to):"
   ],
@@ -105,7 +105,7 @@
       "Technologies": ["JAVASCRIPT", "HTML", "CSS"]
     },
     {
-      "Title": "Ciscom hospital",
+      "Title": "Ciscom Hospital",
       "Description": "As a seasoned front-end web developer, I specialize in crafting static websites tailored to the unique needs of various industries. Recently, I spearheaded the creation of a comprehensive website for a hospital, leveraging my expertise in HTML and CSS to deliver a seamless user experience. My role involved meticulous attention to detail in structuring content with HTML while ensuring a visually appealing layout through CSS styling. By prioritizing responsive design principles, I guarantee accessibility across diverse browsers and devices. I excel in translating client requirements into tangible web solutions, demonstrating proficiency in project management and adherence to strict deadlines. My dedication to producing high-quality results is underscored by my commitment to staying abreast of emerging trends in web development.",
       "imgs": [
         "assets/images/tusuperplan/1.png",
@@ -117,21 +117,14 @@
     },
     
     {
-      "Title": "Hands game",
+      "Title": "Calculator",
       "Description": "Developed a basic calculator application using HTML, CSS, and JavaScript, encapsulated within a single HTML file. The calculator enables users to perform essential arithmetic operations including addition, subtraction, multiplication, and division. Implemented a user-friendly interface featuring a display area for input and results, with intuitive buttons for numerical input, operator selection, and result calculation. This project demonstrates proficiency in front-end web development, emphasizing simplicity, usability, and efficient code organization.      ",
       "imgs": ["assets/images/cal-1.png"],
       "ghLink": "https://github.com/andresjosehr/hands-game",
       "demoLink": "https://projects.andresjosehr.com/hands-game",
       "Technologies": ["Angular", "TYPESCRIPT","CSS","BOOTSTRAP"]
-    },
-    {
-      "Title": "Countries viewer",
-      "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-      "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
-      "Technologies": ["Angular", "RxJS", "SASS", "API"]
     }
+    
   ],
 
   "OtherProjects.Title": "More projects",

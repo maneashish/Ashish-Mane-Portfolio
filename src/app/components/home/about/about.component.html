@@ -12,16 +12,11 @@
                         <p *ngFor='let text of "AboutMe.Paragraphs" | translate' [innerHTML]="text" data-aos="fade-up" data-aos-duration="1000">
                         </p>
                         <ul class="skills-list" data-aos="fade-up">
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">Angular </span></li>
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">JAVASRIPT</span></li>
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">HTML-5 &amp;CSS </span></li>
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">JQUERY
-                                 </span></li>
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">Express JS </span></li>
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">NODE JS</span></li>
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">Jasmine / Karma (TDD) </span></li>
-                            <li class="skill-element" data-aos="fade-up" data-aos-duration="1000"><span class="underline">AGILE/SRUM</span></li>
-                        </ul>
+                            <li class="skill-element" *ngFor="let tech of technologies" data-aos="fade-up" data-aos-duration="1000">
+                              <span class="underline">{{ tech }}</span>
+                            </li>
+                          </ul>
+                          
                     </div>
                 </div>
                 <div class="col-12 col-md-6 mt-4 mt-md-0 text-center" data-aos="fade-up" data-aos-duration="1000">
