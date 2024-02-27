@@ -12,7 +12,7 @@
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>1.5+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Node.Js and MongoDB</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "In my <span class='underline'>1.5+ years as a developer</span>, </br>I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Node.Js and MongoDB</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
     "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
     "Some of the technologies that I have trained and worked on include (but are not limited to):"
   ],
@@ -21,7 +21,7 @@
   "Experience.Jobs": [
     {
       "Tab": "QONDUCTOR",
-      "Title": "Triarq Helth Llp Pune | Software Engineer",
+      "Title": "Triarq Helth LLP Pune | Software Engineer",
       "Date": "March 2023 - Present",
       "Description": [
         "Contributed to the development of Qunductor, a platform designed to streamline the Eligibility Verification process within the healthcare sector. Utilized Angular framework for frontend development, enabling seamless import of patient information, project creation, and task assignment for Revenue Cycle Management (RCM) employees. Orchestrated the verification of patient eligibility criteria in accordance with insurance parameters, ensuring accuracy in processing. Implemented key functionalities including document uploading, Excel export, and version updates, transitioning the platform from Angular 9 to 13 for enhanced efficiency."

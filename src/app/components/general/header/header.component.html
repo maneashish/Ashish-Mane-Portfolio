@@ -1,6 +1,6 @@
 <nav [@animateMenu] class="navbar main-navbar on-top" [class.nav-shadow]='this.pageYPosition>0'>
     <div class="container">
-        <a class="navbar-brand text-light" [routerLink]="'inicio'">
+        <a class="navbar-brand text-light" [routerLink]="'home'">
             <img src='assets/images/icons8-logo.svg' width='50' />
         </a>
         <ul ngbNav #nav="ngbNav" class="menu-ul">
@@ -37,14 +37,14 @@
 
                     
                     </div>
-                    <div ngbDropdownMenu aria-labelledby="dropdownForm1">
-                        <!-- <div (click)='changeLanguage("es")' style='border-bottom-left-radius: 0px !important;border-bottom-right-radius: 0px !important;' class="language-container language-container-selector active" [class.active]='languageFormControl.value == "es"'>
+                    <!-- <div ngbDropdownMenu aria-labelledby="dropdownForm1">
+                        <div (click)='changeLanguage("es")' style='border-bottom-left-radius: 0px !important;border-bottom-right-radius: 0px !important;' class="language-container language-container-selector active" [class.active]='languageFormControl.value == "es"'>
                             <img width="20px" src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="Español">
                             <span class="flag-text">Español</span>
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check2 arrow-active" viewBox="0 0 16 16">
                                 <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
                               </svg>
-                        </div> -->
+                        </div>
                         <div  style="margin-top: 1px !important; border-top-left-radius: 0px !important; border-top-right-radius: 0px !important;" class="language-container language-container-selector" [class.active]='languageFormControl.value == "en"'>
                             <img width="20px" src="./assets/images/flag-for-flag-india-svgrepo-com.svg" alt="English">
                             <span class="flag-text">English</span>
@@ -52,7 +52,7 @@
                                 <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
                             </svg>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </li>
         </ul>
