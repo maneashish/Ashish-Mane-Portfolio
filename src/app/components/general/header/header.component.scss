@@ -305,9 +305,10 @@
 }
 .main-btn {
     // Your button styles here
+    border: 1px solid #64ffda;
+    border-radius: 3px;
     // For example:
     color: white;
-    border: none;
     cursor: pointer;
     transition: background-color 0.2s;
   
