@@ -59,14 +59,14 @@ export class HeaderComponent implements OnInit {
     }
     this.responsiveMenuVisible=false;
   }
-
-  
+  blinking: boolean = true;
   downloadCV() {
     let url = window.location.href;
     // Assuming the file is a PDF named "ashish-mane.pdf" located in the "assets/cv/" directory
     let cvUrl = url + "/../assets/cv/Ashish_Resume.pdf";
     // Open a new window with the CV
     window.open(cvUrl, "_blank");
+
 }
 
   @HostListener('window:scroll', ['getScrollPosition($event)'])

@@ -62,7 +62,7 @@
 
 }
 
-@media (max-width: 768px){
+@media (min-width: 768px){
     
     .contact{
         height: 100vh;
@@ -75,4 +75,20 @@
             vertical-align: middle;
         }
     }
+    .none{
+        display: none;
+
+    }
+}
+
+@media (max-width: 768px){
+    
+    i{
+        color: $LightestSlate;
+    position: relative;
+    top: 40px;
+    }
+    .fab{
+        padding: 10px;
+    }  
 }

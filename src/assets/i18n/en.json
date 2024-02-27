@@ -4,10 +4,10 @@
   "Header.Item5": "Education",
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
-  "Header.cvBtn": "Resume",
+  "Header.cvBtn": "RESUME",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "Experienced Front-End Web Developer with over <span class='underline'> 1.5+ years</span> of hands-on experience in <span class='underline'> HTML, CSS, JavaScript</span>, and responsive design. Proficient in frameworks like <span class='underline'> Angular, Bootstrap, jQuery, and kendoUI </span> to develop visually appealing and user-friendly web applications. <span class='underline'> Skilled in Agile methodologies</span>, <span class='underline'> project management with Jira </span>, and collaborating within cross-functional teams. Eager to apply expertise in delivering innovative web solutions.",
+  "Banner.Description": "Experienced Front-End Web Developer with over <span class='underline'> 1.5+ years</span> of hands-on experience in <span class='underline'> HTML, CSS, JavaScript</span>, and responsive design. </br>Proficient in frameworks like <span class='underline'> Angular, Bootstrap, jQuery, and kendoUI </span> to develop visually appealing and user-friendly web applications. <span class='underline'> Skilled in Agile methodologies</span>, <span class='underline'> project management with Jira </span>, and collaborating within cross-functional teams. Eager to apply expertise in delivering innovative web solutions.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
@@ -20,8 +20,8 @@
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "QUNDUCTOR",
-      "Title": "Triarq Helth llp Pune | FullStack developer",
+      "Tab": "QONDUCTOR",
+      "Title": "Triarq Helth Llp Pune | Software Engineer",
       "Date": "March 2023 - Present",
       "Description": [
         "Contributed to the development of Qunductor, a platform designed to streamline the Eligibility Verification process within the healthcare sector. Utilized Angular framework for frontend development, enabling seamless import of patient information, project creation, and task assignment for Revenue Cycle Management (RCM) employees. Orchestrated the verification of patient eligibility criteria in accordance with insurance parameters, ensuring accuracy in processing. Implemented key functionalities including document uploading, Excel export, and version updates, transitioning the platform from Angular 9 to 13 for enhanced efficiency."
@@ -29,7 +29,7 @@
     },
     {
       "Tab": "POLICY SERVER",
-      "Title": "IAriana Technology Pune | Fullstack developer  ",
+      "Title": "IAriana Technology Pune | Software Engineer",
       "Date": "September 2023 - March 2023",
       "Description": [
         "I played a pivotal role in the design and execution of a policy server product centered around email restrictions and regulations. My contributions spanned various facets, including the development of interfaces for Customer Admin, Super Admin, and policy rule creation functionalities. Through meticulous integration of APIs and meticulous attention to detail, I ensured seamless communication between different system components. Additionally, I prioritized responsive design principles to guarantee optimal user experiences across devices. Over the course of the project, I spearheaded the implementation of 14 distinct policies, each tailored to specific rule creation requirements. By combining technical expertise with a commitment to meeting client needs, I played an integral role in delivering a robust and versatile policy server solution."
@@ -37,7 +37,7 @@
     },
     {
       "Tab": "GIVETH",
-      "Title": "IAriana Technology Pune | Fullstack developer  ",
+      "Title": "IAriana Technology Pune | Software Engineer",
       "Date": "September 2023 - March 2023",
       "Description": [
         " I spearheaded the development of an Angular-based web application dedicated to a meal donation initiative aimed at supporting underprivileged children. Within this project, I orchestrated the implementation of comprehensive functionalities, including user registration, secure authentication protocols, and seamless payment processing systems. Additionally, I devised a unique GCC code generation and management system, ensuring transparency and accountability in donation tracking. To facilitate the distribution process, I created a complementary mobile application tailored for shopkeepers, enabling them to scan GCC codes efficiently. Furthermore, I integrated tracking, reporting, and analytics features to provide stakeholders with valuable insights for assessing project impact. With meticulous attention to detail, I successfully deployed the project and meticulously managed documentation to ensure smooth operation and future scalability."
@@ -46,28 +46,14 @@
     {
       "Tab": " Blood Banks",
       "Title": "Aavid Software | Intenship",
-      "Date": "February 2016 - May 2017",
+      "Date": "March 2022 - September 2023",
       "Description": [
         "Conducted comprehensive literature reviews to explore the role of information systems in blood bank management. Analyzed findings to identify the benefits of web-based blood bank systems, including enhanced convenience, efficiency, and security compared to traditional manual systems. Recognized the limitations of manual processes, which often resulted in user dissatisfaction. Emphasized the pivotal role of online blood bank applications in simplifying tasks and ensuring rapid data retrieval when required."
       ]
-    },
-    {
-      "Tab": "CANTV",
-      "Title": "System analyst",
-      "Date": "November 2015 - December 2016",
-      "Description": [
-        "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-        "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "English teacher",
-      "Date": "January 2015 - July 2015",
-      "Description": [
-        "Teaching English at a basic level to an enrollment of more than 200 students."
-      ]
+    
+    
     }
+   
   ],
 
   "FeatureProjects.Title": "My projects",
@@ -127,7 +113,7 @@
     
   ],
 
-  "OtherProjects.Title": "More projects",
+  "OtherProjects.Title": "More Projects",
   "OtherProjects.Projects": [
     {
       "Title": "Portfolio Website",
@@ -137,8 +123,8 @@
       "Technologies": ["Angular", "RxJs", "SCSS", "Bootstrap","JSON","ES6"]
     },
     {
-      "Title": "Coming soon page",
-      "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+      "Title": "Beta Craft Webside",
+      "Description": "I'm practicing by building a craft website with JavaScript, HTML, CSS, and Bootstrap. I've planned features, set up directories, designed layouts, and added interactivity with JavaScript. Testing across devices is vital before deployment, enhancing my coding skills.",
       "ghLink": "https://github.com/andresjosehr/coming-soon-page",
       "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
       "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
@@ -172,7 +158,7 @@
       "Technologies": ["Angular", "SASS", "GIT"]
     }
   ],
-  "Contact.Pretitle": "What’s Next",
+  "Contact.Pretitle": "Contact",
   "Contact.Title": "Get in touch!",
   "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
   "Contact.Btn": "Say Hello"

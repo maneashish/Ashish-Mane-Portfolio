@@ -303,3 +303,33 @@
         visibility: inherit;
     }
 }
+.main-btn {
+    // Your button styles here
+    // For example:
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  
+    &.blink {
+      animation: blink-animation 1s infinite alternate;
+    }
+  
+    &:hover {
+      background-color: rgba(176, 176, 207, 0.242);
+      transition: background-color 0s;
+      animation: none;
+
+
+    }
+  }
+  
+  @keyframes blink-animation {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+  
