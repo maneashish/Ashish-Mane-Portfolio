@@ -7,12 +7,12 @@
   "Header.cvBtn": "RESUME",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "Experienced Front-End Web Developer with over <span class='underline'> 1.5+ years</span> of hands-on experience in <span class='underline'> HTML, CSS, JavaScript</span>, and responsive design. </br>Proficient in frameworks like <span class='underline'> Angular, Bootstrap, jQuery, and kendoUI </span> to develop visually appealing and user-friendly web applications. <span class='underline'> Skilled in Agile methodologies</span>, <span class='underline'> project management with Jira </span>, and collaborating within cross-functional teams. Eager to apply expertise in delivering innovative web solutions.",
+  "Banner.Description": "Experienced Front-End Web Developer with over <span class='underline'> Two years</span> of hands-on experience in <span class='underline'> HTML, CSS, JavaScript</span>, and responsive design. </br>Proficient in frameworks like <span class='underline'> Angular, Bootstrap, jQuery, and kendoUI </span> to develop visually appealing and user-friendly web applications. <span class='underline'> Skilled in Agile methodologies</span>, <span class='underline'> project management with Jira </span>, and collaborating within cross-functional teams. Eager to apply expertise in delivering innovative web solutions.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>1.5+ years as a developer</span>, </br>I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Node.Js and MongoDB</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "In my <span class='underline'>Two years as a developer</span>, I seek to train every day. </br>I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Node.Js and MongoDB</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
     "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
     "Some of the technologies that I have trained and worked on include (but are not limited to):"
   ],
