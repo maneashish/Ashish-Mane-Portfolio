@@ -63,7 +63,7 @@ export class HeaderComponent implements OnInit {
   downloadCV() {
     let url = window.location.href;
     // Assuming the file is a PDF named "ashish-mane.pdf" located in the "assets/cv/" directory
-    let cvUrl = url + "/../assets/cv/Ashish_Resume.pdf";
+    let cvUrl = url + "/../assets/cv/Ashish-Mane-Web-Developer.pdf";
     // Open a new window with the CV
     window.open(cvUrl, "_blank");
 
