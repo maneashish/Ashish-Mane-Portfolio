@@ -84,3 +84,22 @@
     .responsive{
         display: none;
     }}
+    a {
+  img {
+    max-width: 100%; // Ensures the image scales down as per the screen size
+    height: auto;    // Maintains the aspect ratio
+    
+    // Responsive media queries
+    @media only screen and (max-width: 600px) {
+      width: 100%; // Image takes full width on smaller screens
+    }
+
+    @media only screen and (min-width: 601px) and (max-width: 1200px) {
+      width: 80%; // Slightly reduce width for medium-sized screens
+    }
+
+    @media only screen and (min-width: 1201px) {
+      width: 60%; // Reduce width further for larger screens
+    }
+  }
+}
